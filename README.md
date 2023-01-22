@@ -3,7 +3,7 @@
 - 🌱 ...
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me:
-  - Twitter: @DesertUO
+  - Twitter, Youtube, Newgrounds: @DesertUO
 
 <!---
 DesertUO/DesertUO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
