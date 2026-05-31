@@ -4,5 +4,5 @@
 -  ...
 -  I’m looking to collaborate on anything, just ask :)
 -  How to reach me:
-  - Twitter, Youtube, Newgrounds: @DesertUO
+  - Twitter, Youtube, Discord, Newgrounds: @DesertUO
 
