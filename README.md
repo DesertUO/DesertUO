@@ -1,6 +1,4 @@
-Hi, I’m @DesertUO
-
-I’m interested in web development and some Python, Java, C++, Go, Rust, maybe "brainfuck" (someday xD)
+Hi, I’m @DesertUO and I am interested in web development and some Python, Java, C++, Go, Rust, maybe "brainfuck" (someday xD)
 -  Kinda focused on: C++, Java and Go
 
 ...
